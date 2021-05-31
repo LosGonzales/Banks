@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/WebsiteSelection"
+            android:orderInCategory="100"
+            android:title="Website" />
+    <item
+            android:id="@+id/ContactSelection"
+            android:orderInCategory="101"
+            android:title="Contact the Bank" />
+    <item
+            android:id="@+id/FavSelection"
+            android:orderInCategory="102"
+            android:title="Toggle Favourite" />
+</menu>
